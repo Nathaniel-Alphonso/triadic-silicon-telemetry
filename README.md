@@ -45,7 +45,7 @@ Hardware execution logs captured across local unified memory architectures (Appl
 
 ## Master Research Portfolio (Published on Substack)
 
-The institutional financial models, legal audit ledgers, and bare-metal integration roadmaps are published on the [Alphonso Systems & Infrastructure Public Substack] (https://nathanielalphonso.substack.com)
+The institutional financial models, legal audit ledgers, and bare-metal integration roadmaps are published on the [Alphonso Systems & Infrastructure Public Substack](https://nathanielalphonso.substack.com)
 
 1. **Financial & Physical Infrastructure Model:** 1,000,000 H100 to 115.5 GB200 NVL72 rack squeeze and the $4.640T 5-year capital reclamation ledger.
 2. **Proprietary Architectural Roadmap for Bare-Metal Integration:** 24-week Clean Room roadmap, autonomous HBM3e ring buffers, and SRAM ragged batch repacking.
