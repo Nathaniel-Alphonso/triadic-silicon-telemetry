@@ -1,0 +1,34 @@
+# DOSSIER MATRIX — FORENSIC COMPILATION
+# Source: /Users/nate/Downloads/Triadic_Audit/raw_telemetry_dump.log
+# Lifts segmented: 12/12
+# Valid lifts: 12/12
+
+| Lift | Payload            | Lane               | Captured_TTFT  | Captured_ITL   | Activation_Density | PoLS           | Ingestion_Entropy_Ratio | Context_Footprint_Reduction |
+|-----:|:-------------------|:-------------------|---------------:|---------------:|-------------------:|---------------:|------------------------:|-------------------------:|
+|  1 | syntactic_chaos    | lane_a             |    1666.595167 |     126.941333 |           0.000000 |    -0.00304871 |             0.00000000 |                 0.000000 |
+|  2 | syntactic_chaos    | lane_b_isolated    |    2102.830958 |      99.183687 |          94.245387 |    -0.00334778 |             0.94245387 |                 0.000000 |
+|  3 | syntactic_chaos    | lane_b_coupled     |     643.763000 |     121.217511 |          93.740699 |    -1.23710937 |             0.93740699 |                80.408859 |
+|  4 | syntactic_chaos    | lane_c             |    1598.120583 |     122.514094 |           0.000000 |    -0.00304871 |             0.00000000 |                 0.000000 |
+|  5 | logical_fracture   | lane_a             |    1184.679292 |      90.730219 |           0.000000 |    -1.44273987 |             0.00000000 |                 0.000000 |
+|  6 | logical_fracture   | lane_b_isolated    |    3534.478583 |     117.142500 |          93.073499 |    -1.05556641 |             0.93073499 |                 0.000000 |
+|  7 | logical_fracture   | lane_b_coupled     |    1209.584042 |      84.044896 |          93.414276 |    -2.79492188 |             0.93414276 |                25.714286 |
+|  8 | logical_fracture   | lane_c             |     961.703333 |      91.517698 |           0.000000 |    -1.44273987 |             0.00000000 |                 0.000000 |
+|  9 | bot_speak_grid     | lane_a             |    1051.653208 |      91.337479 |           0.000000 |    -1.12211914 |             0.00000000 |                 0.000000 |
+| 10 | bot_speak_grid     | lane_b_isolated    |    1366.354542 |      97.119604 |          92.668241 |    -0.00000000 |             0.92668241 |                 0.000000 |
+| 11 | bot_speak_grid     | lane_b_coupled     |     941.490417 |      86.781594 |          92.981367 |    -2.08964844 |             0.92981367 |                27.745665 |
+| 12 | bot_speak_grid     | lane_c             |    1171.210875 |      79.437865 |           0.000000 |    -0.00000000 |             0.00000000 |                 0.000000 |
+
+## Integrity Summary
+
+- Lift  1: VALID — block_found=True — none
+- Lift  2: VALID — block_found=True — none
+- Lift  3: VALID — block_found=True — none
+- Lift  4: VALID — block_found=True — none
+- Lift  5: VALID — block_found=True — none
+- Lift  6: VALID — block_found=True — none
+- Lift  7: VALID — block_found=True — none
+- Lift  8: VALID — block_found=True — none
+- Lift  9: VALID — block_found=True — none
+- Lift 10: VALID — block_found=True — none
+- Lift 11: VALID — block_found=True — none
+- Lift 12: VALID — block_found=True — none

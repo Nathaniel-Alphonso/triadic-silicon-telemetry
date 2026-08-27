@@ -1,0 +1,182 @@
+# raw_telemetry_dump.log — hardware-synchronized ledger
+# Orchestration run: 2026-07-12T20:37:41Z
+=== LIFT 1 START ===
+[METRIC_LOG] Lift=1
+[METRIC_LOG] Payload=syntactic_chaos
+[METRIC_LOG] Lane=lane_a
+[METRIC_LOG] Captured_TTFT=1666.595167
+[METRIC_LOG] Captured_ITL=126.941333
+[METRIC_LOG] ITL_Array=278.398042,76.810042,76.607083,75.950167
+[METRIC_LOG] PoLS=-0.00304871
+[METRIC_LOG] Ingestion_Entropy_Ratio=0.00000000
+[METRIC_LOG] Activation_Density=0.000000
+[METRIC_LOG] Context_Footprint_Reduction=0.000000
+[METRIC_LOG] Sequence_Entropy=6.017219
+[METRIC_LOG] QC=0.223859
+[METRIC_LOG] Reverse_Audit_Fault=0
+=== LIFT 1 CONCLUDED ===
+=== LIFT 2 START ===
+[METRIC_LOG] Lift=2
+[METRIC_LOG] Payload=syntactic_chaos
+[METRIC_LOG] Lane=lane_b_isolated
+[METRIC_LOG] Captured_TTFT=2102.830958
+[METRIC_LOG] Captured_ITL=99.183687
+[METRIC_LOG] ITL_Array=137.515292,90.399958,82.642500,86.177000
+[METRIC_LOG] PoLS=-0.00334778
+[METRIC_LOG] Ingestion_Entropy_Ratio=0.94245387
+[METRIC_LOG] Activation_Density=94.245387
+[METRIC_LOG] Context_Footprint_Reduction=0.000000
+[METRIC_LOG] Sequence_Entropy=6.017219
+[METRIC_LOG] QC=0.223572
+[METRIC_LOG] Reverse_Audit_Fault=0
+=== LIFT 2 CONCLUDED ===
+=== LIFT 3 START ===
+[METRIC_LOG] Lift=3
+[METRIC_LOG] Payload=syntactic_chaos
+[METRIC_LOG] Lane=lane_b_coupled
+[METRIC_LOG] Captured_TTFT=643.763000
+[METRIC_LOG] Captured_ITL=121.217511
+[METRIC_LOG] ITL_Array=100.882542,83.742000,220.895333,79.350167
+[METRIC_LOG] PoLS=-1.23710937
+[METRIC_LOG] Ingestion_Entropy_Ratio=0.93740699
+[METRIC_LOG] Activation_Density=93.740699
+[METRIC_LOG] Context_Footprint_Reduction=80.408859
+[METRIC_LOG] Sequence_Entropy=6.017219
+[METRIC_LOG] QC=0.223314
+[METRIC_LOG] Reverse_Audit_Fault=0
+=== LIFT 3 CONCLUDED ===
+=== LIFT 4 START ===
+[METRIC_LOG] Lift=4
+[METRIC_LOG] Payload=syntactic_chaos
+[METRIC_LOG] Lane=lane_c
+[METRIC_LOG] Captured_TTFT=1598.120583
+[METRIC_LOG] Captured_ITL=122.514094
+[METRIC_LOG] ITL_Array=259.849167,77.322833,74.396625,78.487750
+[METRIC_LOG] PoLS=-0.00304871
+[METRIC_LOG] Ingestion_Entropy_Ratio=0.00000000
+[METRIC_LOG] Activation_Density=0.000000
+[METRIC_LOG] Context_Footprint_Reduction=0.000000
+[METRIC_LOG] Sequence_Entropy=6.017219
+[METRIC_LOG] QC=0.223076
+[METRIC_LOG] Reverse_Audit_Fault=0
+=== LIFT 4 CONCLUDED ===
+=== LIFT 5 START ===
+[METRIC_LOG] Lift=5
+[METRIC_LOG] Payload=logical_fracture
+[METRIC_LOG] Lane=lane_a
+[METRIC_LOG] Captured_TTFT=1184.679292
+[METRIC_LOG] Captured_ITL=90.730219
+[METRIC_LOG] ITL_Array=105.382834,82.386000,86.577583,88.574458
+[METRIC_LOG] PoLS=-1.44273987
+[METRIC_LOG] Ingestion_Entropy_Ratio=0.00000000
+[METRIC_LOG] Activation_Density=0.000000
+[METRIC_LOG] Context_Footprint_Reduction=0.000000
+[METRIC_LOG] Sequence_Entropy=6.717666
+[METRIC_LOG] QC=0.223239
+[METRIC_LOG] Reverse_Audit_Fault=0
+=== LIFT 5 CONCLUDED ===
+=== LIFT 6 START ===
+[METRIC_LOG] Lift=6
+[METRIC_LOG] Payload=logical_fracture
+[METRIC_LOG] Lane=lane_b_isolated
+[METRIC_LOG] Captured_TTFT=3534.478583
+[METRIC_LOG] Captured_ITL=117.142500
+[METRIC_LOG] ITL_Array=138.370250,86.880667,112.323958,130.995125
+[METRIC_LOG] PoLS=-1.05556641
+[METRIC_LOG] Ingestion_Entropy_Ratio=0.93073499
+[METRIC_LOG] Activation_Density=93.073499
+[METRIC_LOG] Context_Footprint_Reduction=0.000000
+[METRIC_LOG] Sequence_Entropy=6.717666
+[METRIC_LOG] QC=0.222939
+[METRIC_LOG] Reverse_Audit_Fault=0
+=== LIFT 6 CONCLUDED ===
+=== LIFT 7 START ===
+[METRIC_LOG] Lift=7
+[METRIC_LOG] Payload=logical_fracture
+[METRIC_LOG] Lane=lane_b_coupled
+[METRIC_LOG] Captured_TTFT=1209.584042
+[METRIC_LOG] Captured_ITL=84.044896
+[METRIC_LOG] ITL_Array=102.881541,74.100292,77.290833,81.906917
+[METRIC_LOG] PoLS=-2.79492188
+[METRIC_LOG] Ingestion_Entropy_Ratio=0.93414276
+[METRIC_LOG] Activation_Density=93.414276
+[METRIC_LOG] Context_Footprint_Reduction=25.714286
+[METRIC_LOG] Sequence_Entropy=6.717666
+[METRIC_LOG] QC=0.222619
+[METRIC_LOG] Reverse_Audit_Fault=0
+=== LIFT 7 CONCLUDED ===
+=== LIFT 8 START ===
+[METRIC_LOG] Lift=8
+[METRIC_LOG] Payload=logical_fracture
+[METRIC_LOG] Lane=lane_c
+[METRIC_LOG] Captured_TTFT=961.703333
+[METRIC_LOG] Captured_ITL=91.517698
+[METRIC_LOG] ITL_Array=105.116709,83.158666,86.909625,90.885792
+[METRIC_LOG] PoLS=-1.44273987
+[METRIC_LOG] Ingestion_Entropy_Ratio=0.00000000
+[METRIC_LOG] Activation_Density=0.000000
+[METRIC_LOG] Context_Footprint_Reduction=0.000000
+[METRIC_LOG] Sequence_Entropy=6.717666
+[METRIC_LOG] QC=0.222289
+[METRIC_LOG] Reverse_Audit_Fault=0
+=== LIFT 8 CONCLUDED ===
+=== LIFT 9 START ===
+[METRIC_LOG] Lift=9
+[METRIC_LOG] Payload=bot_speak_grid
+[METRIC_LOG] Lane=lane_a
+[METRIC_LOG] Captured_TTFT=1051.653208
+[METRIC_LOG] Captured_ITL=91.337479
+[METRIC_LOG] ITL_Array=107.124000,82.605917,85.104708,90.515292
+[METRIC_LOG] PoLS=-1.12211914
+[METRIC_LOG] Ingestion_Entropy_Ratio=0.00000000
+[METRIC_LOG] Activation_Density=0.000000
+[METRIC_LOG] Context_Footprint_Reduction=0.000000
+[METRIC_LOG] Sequence_Entropy=6.703245
+[METRIC_LOG] QC=0.222827
+[METRIC_LOG] Reverse_Audit_Fault=0
+=== LIFT 9 CONCLUDED ===
+=== LIFT 10 START ===
+[METRIC_LOG] Lift=10
+[METRIC_LOG] Payload=bot_speak_grid
+[METRIC_LOG] Lane=lane_b_isolated
+[METRIC_LOG] Captured_TTFT=1366.354542
+[METRIC_LOG] Captured_ITL=97.119604
+[METRIC_LOG] ITL_Array=120.488625,85.652833,89.274834,93.062125
+[METRIC_LOG] PoLS=-0.00000000
+[METRIC_LOG] Ingestion_Entropy_Ratio=0.92668241
+[METRIC_LOG] Activation_Density=92.668241
+[METRIC_LOG] Context_Footprint_Reduction=0.000000
+[METRIC_LOG] Sequence_Entropy=6.703245
+[METRIC_LOG] QC=0.222517
+[METRIC_LOG] Reverse_Audit_Fault=0
+=== LIFT 10 CONCLUDED ===
+=== LIFT 11 START ===
+[METRIC_LOG] Lift=11
+[METRIC_LOG] Payload=bot_speak_grid
+[METRIC_LOG] Lane=lane_b_coupled
+[METRIC_LOG] Captured_TTFT=941.490417
+[METRIC_LOG] Captured_ITL=86.781594
+[METRIC_LOG] ITL_Array=105.286000,82.718666,77.172875,81.948834
+[METRIC_LOG] PoLS=-2.08964844
+[METRIC_LOG] Ingestion_Entropy_Ratio=0.92981367
+[METRIC_LOG] Activation_Density=92.981367
+[METRIC_LOG] Context_Footprint_Reduction=27.745665
+[METRIC_LOG] Sequence_Entropy=6.703245
+[METRIC_LOG] QC=0.222273
+[METRIC_LOG] Reverse_Audit_Fault=0
+=== LIFT 11 CONCLUDED ===
+=== LIFT 12 START ===
+[METRIC_LOG] Lift=12
+[METRIC_LOG] Payload=bot_speak_grid
+[METRIC_LOG] Lane=lane_c
+[METRIC_LOG] Captured_TTFT=1171.210875
+[METRIC_LOG] Captured_ITL=79.437865
+[METRIC_LOG] ITL_Array=90.189375,73.033500,78.154417,76.374166
+[METRIC_LOG] PoLS=-0.00000000
+[METRIC_LOG] Ingestion_Entropy_Ratio=0.00000000
+[METRIC_LOG] Activation_Density=0.000000
+[METRIC_LOG] Context_Footprint_Reduction=0.000000
+[METRIC_LOG] Sequence_Entropy=6.703245
+[METRIC_LOG] QC=0.222016
+[METRIC_LOG] Reverse_Audit_Fault=0
+=== LIFT 12 CONCLUDED ===
