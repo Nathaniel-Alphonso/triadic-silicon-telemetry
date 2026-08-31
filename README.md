@@ -32,27 +32,24 @@ Hardware execution logs captured across local unified memory architectures (Appl
 
 ## The Four Governance Tiers Specification
 
-* **Tier 1: Silicon & Telemetry Integrity**  
-  Empirical verification of 0 B VRAM swap churn, TTFT compression, and deterministic compute floors on silicon.
-* **Tier 2: Fiduciary & Balance-Sheet Accounting**  
-  Reconciliation of hardware utilization against hyperscaler CapEx burn, multi-megawatt data center queues, and server depreciation schedules.
-* **Tier 3: Clean-Room Implementation & Licensing**  
-  A 24-week clean-room deployment roadmap porting single-turn interdiction constraints onto multi-node enterprise hardware (NVIDIA GB200 NVL72 liquid-cooled fabrics, autonomous HBM3e ring buffers, and SRAM ragged batch repacking).
-* **Tier 4: Regulatory & Statutory Disclosures**  
-  Alignment with securities disclosure standards (SEC Item 303 MD&A), energy grid statutory triggers (Texas SB 6), and critical supply-chain constraints.
+* **Tier A: The Ingestion Edge Manifold (Ingress Control)**  
+  Tier A operates as an ex-ante ingress filter before raw token vectors are allowed to interact wit the model's core transformer layers, Instead of passing raw, un-optimized text formatting directly into memory, Tier A evaluates data redundancy before GPU allocation occurs.
+* **Tier B: Multi-Head Self-Attention Interception (The Layer 12 Tensor Clamp)**  
+  Tier B executes inline interception directly at the output projection vector of the 12th multi-head self-attention block (model.model.layers[12].self_attn.o_proj). This junction captures raw coordinate distributions before layer normalization flattens their variance.
+* **Tier C: Un-Embedding Projection & Output Boundaries (The Exit Gate)**  
+  Tier C operates at the terminal un-embedding interface (W_U), executing matrix interventions across the absolute vocabulary boundary (all 151,643 distinct integer index allocations) to govern token emission mechanics in real time.
+* **Tier D: Layer Invariant Modulation & Non-Destructive Termination**  
+  Tier D acts as an in-band, fail-closed safety net when the transformer blocks encounter severe logical contradictions, adversarial payloads, or epistemic singularities.
 
 ---
 
 ## Master Research Portfolio (Published on Substack)
 
-The institutional financial models, legal audit ledgers, and bare-metal integration roadmaps are published on the [Alphonso Systems & Infrastructure Public Substack](https://nathanielalphonso.substack.com)
+The institutional financial models and bare-metal integration roadmaps are published on the [Alphonso Systems & Infrastructure Public Substack](https://nathanielalphonso.substack.com)
 
 1. **Financial & Physical Infrastructure Model:** 1,000,000 H100 to 115.5 GB200 NVL72 rack squeeze and the $4.640T 5-year capital reclamation ledger.
 2. **Proprietary Architectural Roadmap for Bare-Metal Integration:** 24-week Clean Room roadmap, autonomous HBM3e ring buffers, and SRAM ragged batch repacking.
 3. **The Triadic Set: Empirical Telemetry:** 88.41% context squeeze, TTFT cut from 1,658 ms to 643 ms, and 0 B VRAM swap logs.
-4. **Algorithmic Inefficiency as a Systemic Macro Liability:** BlackRock Aladdin 1:1 covariance breach and Texas SB 6 load-shedding bond default audit.
-5. **The Fiduciary Immolation of Passive Capital:** Vanguard 404'd Steward audit, 40% VGT concentration trap, and Markey Act 60% regulatory tax.
-6. **The Terminal Inversion of Active Growth Capital:** FMR IPRC Material ROIC Variance Notice, $7,000–$10,700/1B token cash burn audit, and 4% active overweight liquidation mechanics.
 
 ---
 
