@@ -1,0 +1,568 @@
+# Hardware-Synchronized Telemetry Ledger
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_abstract_algebra
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.26
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_anatomy
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.45925925925925926
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_astronomy
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.3881578947368421
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_college_biology
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.3958333333333333
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_college_chemistry
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.31
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_college_computer_science
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.27
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_college_mathematics
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.3
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_college_physics
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.24509803921568626
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_computer_security
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.5
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_conceptual_physics
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.3574468085106383
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_electrical_engineering
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.3103448275862069
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_elementary_mathematics
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.26455026455026454
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_high_school_biology
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.47096774193548385
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_high_school_chemistry
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.29064039408866993
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_high_school_computer_science
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.35
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_high_school_mathematics
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.26296296296296295
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_high_school_physics
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.26490066225165565
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_high_school_statistics
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.27314814814814814
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_machine_learning
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.39285714285714285
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_business_ethics
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.36
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_clinical_knowledge
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.44150943396226416
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_college_medicine
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.4046242774566474
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_global_facts
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.32
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_human_aging
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.43946188340807174
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_management
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.4174757281553398
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_marketing
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.5085470085470085
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_medical_genetics
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.44
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_miscellaneous
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.5172413793103449
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_nutrition
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.42483660130718953
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_professional_accounting
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.29432624113475175
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_professional_medicine
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.40808823529411764
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_virology
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.41566265060240964
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_econometrics
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.2543859649122807
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_high_school_geography
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.46464646464646464
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_high_school_government_and_politics
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.39896373056994816
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_high_school_macroeconomics
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.34615384615384615
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_high_school_microeconomics
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.33613445378151263
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_high_school_psychology
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.4935779816513762
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_human_sexuality
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.4351145038167939
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_professional_psychology
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.33169934640522875
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_public_relations
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.42727272727272725
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_security_studies
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.4204081632653061
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_sociology
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.5522388059701493
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_us_foreign_policy
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.5
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_formal_logic
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.24603174603174602
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_high_school_european_history
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.503030303030303
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_high_school_us_history
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.45588235294117646
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_high_school_world_history
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.46835443037974683
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_international_law
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.5371900826446281
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_jurisprudence
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.4722222222222222
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_logical_fallacies
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.38650306748466257
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_moral_disputes
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.35260115606936415
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_moral_scenarios
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.23687150837988827
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_philosophy
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.4115755627009646
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_prehistory
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.4444444444444444
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_professional_law
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.3050847457627119
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_world_religions
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.47368421052631576
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=gsm8k
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.0
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_stem
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.3330161750713606
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_other
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.4367557129063405
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_social_sciences
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.4072148196295093
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu_humanities
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.35111583421891607
+=== ITERATION CONCLUDED ===
+=== ITERATION START ===
+[METRIC_LOG] Task=mmlu
+[METRIC_LOG] Captured_TTFT=0.000000
+[METRIC_LOG] Captured_ITL=0.000000
+[METRIC_LOG] Activation_Density=51.26953125
+[METRIC_LOG] Variance_Delta=0.05293424427509308
+[METRIC_LOG] Reverse_Audit_Fault=0
+[METRIC_LOG] Accuracy_Score=0.37829369035749894
+=== ITERATION CONCLUDED ===
