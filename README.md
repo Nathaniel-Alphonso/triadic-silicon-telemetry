@@ -61,7 +61,7 @@ Hardware execution logs captured across local unified memory architectures (Appl
 * **Tier B: Multi-Head Self-Attention Interception (Layer 12 Tensor Clamp):** Intercepts raw coordinate distributions at Layer 12 (`self_attn.o_proj`) before layer normalization flattens variance. Applies the in-band structural mask ($M_{\text{triadic}}$) to excise thermodynamic noise pre-softmax.
 * **Tier C: Un-Embedding Projection & Output Boundaries (The Exit Gate):** Operates at the terminal un-embedding interface ($W_U$) across the absolute vocabulary boundary (151,643 integer allocations), utilizing bitmasking and deterministic step functions to prevent loop recursion.
 * **Tier D: Fail-Closed Circuit & Non-Destructive Termination:** Monitors spatial coordinate variance delta inside the Layer 12 forward hook. If anomalous drift breaches the critical threshold ($\Delta X > 3\sigma$), the circuit trips the End-of-Token ID register natively within VRAM, severing execution mid-flight with zero memory leakage.
-* Read the full technical white paper on hook placement and telemetry extraction here: /docs/ARCHITECTURE_OVERVIEW.md
+* Read the full technical white paper on hook placement and telemetry extraction here: ./docs/ARCHITECTURE_OVERVIEW.md
 
 ---
 
