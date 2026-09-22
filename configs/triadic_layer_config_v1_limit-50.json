@@ -1,0 +1,114 @@
+{
+    "layer_0": {
+        "sigma_baseline": 0.22380417793989182,
+        "mu_baseline": -0.0015229553895187563,
+        "natural_density": 49.68232446908951,
+        "spatial_entropy": 10.949034538269043,
+        "tau_perimeter": 0.03357062669098377
+    },
+    "layer_1": {
+        "sigma_baseline": 0.38770885348320006,
+        "mu_baseline": 0.004695985238067806,
+        "natural_density": 50.11016625165939,
+        "spatial_entropy": 10.818442630767823,
+        "tau_perimeter": 0.058156328022480004
+    },
+    "layer_2": {
+        "sigma_baseline": 0.48185001373291014,
+        "mu_baseline": 0.011109042791649698,
+        "natural_density": 50.28806793689728,
+        "spatial_entropy": 10.623734893798828,
+        "tau_perimeter": 0.07227750205993652
+    },
+    "layer_3": {
+        "sigma_baseline": 0.40878445565700533,
+        "mu_baseline": 0.007378997160121799,
+        "natural_density": 50.16003042459488,
+        "spatial_entropy": 10.80868688583374,
+        "tau_perimeter": 0.0613176683485508
+    },
+    "layer_4": {
+        "sigma_baseline": 0.4270269674062729,
+        "mu_baseline": 0.006831220982130617,
+        "natural_density": 50.09833866357803,
+        "spatial_entropy": 10.799611492156982,
+        "tau_perimeter": 0.06405404511094093
+    },
+    "layer_5": {
+        "sigma_baseline": 0.49612544059753416,
+        "mu_baseline": 0.009723649402149022,
+        "natural_density": 50.582982420921326,
+        "spatial_entropy": 10.53621171951294,
+        "tau_perimeter": 0.07441881608963012
+    },
+    "layer_6": {
+        "sigma_baseline": 0.460449298620224,
+        "mu_baseline": 0.0034057425212813543,
+        "natural_density": 50.22520571947098,
+        "spatial_entropy": 10.763022785186768,
+        "tau_perimeter": 0.0690673947930336
+    },
+    "layer_7": {
+        "sigma_baseline": 0.46348935484886167,
+        "mu_baseline": -0.002624576516682282,
+        "natural_density": 49.806881844997406,
+        "spatial_entropy": 10.764403800964356,
+        "tau_perimeter": 0.06952340322732925
+    },
+    "layer_8": {
+        "sigma_baseline": 0.5060589170455932,
+        "mu_baseline": -0.004022696358151734,
+        "natural_density": 49.89893960952759,
+        "spatial_entropy": 10.634197387695313,
+        "tau_perimeter": 0.07590883755683898
+    },
+    "layer_9": {
+        "sigma_baseline": 0.46530315816402434,
+        "mu_baseline": -0.0021801827776653225,
+        "natural_density": 50.018119513988495,
+        "spatial_entropy": 10.797972717285155,
+        "tau_perimeter": 0.06979547372460365
+    },
+    "layer_10": {
+        "sigma_baseline": 0.5588241565227509,
+        "mu_baseline": -0.0053808443884190635,
+        "natural_density": 50.054833233356476,
+        "spatial_entropy": 10.221198062896729,
+        "tau_perimeter": 0.08382362347841263
+    },
+    "layer_11": {
+        "sigma_baseline": 0.5206809735298157,
+        "mu_baseline": -0.008537389507982879,
+        "natural_density": 49.66042959690094,
+        "spatial_entropy": 10.632351760864259,
+        "tau_perimeter": 0.07810214602947235
+    },
+    "layer_12": {
+        "sigma_baseline": 0.5080073744058609,
+        "mu_baseline": -0.006893930464721052,
+        "natural_density": 49.708482444286346,
+        "spatial_entropy": 10.642384338378907,
+        "tau_perimeter": 0.07620110616087912
+    },
+    "layer_13": {
+        "sigma_baseline": 0.5563854515552521,
+        "mu_baseline": -0.011657273669261486,
+        "natural_density": 49.40196633338928,
+        "spatial_entropy": 10.469689197540283,
+        "tau_perimeter": 0.08345781773328781
+    },
+    "layer_14": {
+        "sigma_baseline": 0.5090736615657806,
+        "mu_baseline": -0.007579971011728049,
+        "natural_density": 49.646383583545685,
+        "spatial_entropy": 10.528691921234131,
+        "tau_perimeter": 0.07636104923486708
+    },
+    "layer_15": {
+        "sigma_baseline": 0.502867037653923,
+        "mu_baseline": -0.005190194530878216,
+        "natural_density": 49.791049122810364,
+        "spatial_entropy": 10.71711093902588,
+        "tau_perimeter": 0.07543005564808845
+    }
+}
