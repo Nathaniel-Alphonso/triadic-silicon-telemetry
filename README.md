@@ -80,3 +80,9 @@ Uniform attention masking shatters transformer reasoning. As proven in `/configs
 Run the empirical calibration harness to capture the baseline variance ($\sigma$), mean ($\mu$), natural density, and spatial entropy across all 16 layers:
 ```bash
 python3 scripts/calibrate_triadic_v3.py
+
+---
+### Run Hardware_Synchronized MPS Streaming Benchmark
+Benchmark the Layer 12 hook latency using hardware-flushed streaming queues to isolate pure silicon execution:
+```bash
+python3 scripts/stream_triadic_latency.py
