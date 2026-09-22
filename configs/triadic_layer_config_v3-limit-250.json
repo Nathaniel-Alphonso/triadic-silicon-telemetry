@@ -1,0 +1,128 @@
+{
+    "embed_tokens": {
+        "sigma_baseline": 0.019705915838479995,
+        "mu_baseline": -1.7533829478509235e-05,
+        "natural_density": 49.825974476337436,
+        "spatial_entropy": 10.552701766967774,
+        "tau_perimeter": 0.002955887375771999
+    },
+    "layer_0": {
+        "sigma_baseline": 0.019705915838479995,
+        "mu_baseline": -1.7533829478509235e-05,
+        "natural_density": 49.825974476337436,
+        "spatial_entropy": 10.552701766967774,
+        "tau_perimeter": 0.002955887375771999
+    },
+    "layer_1": {
+        "sigma_baseline": 0.05210369423031807,
+        "mu_baseline": 0.0007777660971041769,
+        "natural_density": 50.162383830547334,
+        "spatial_entropy": 10.382824504852294,
+        "tau_perimeter": 0.00781555413454771
+    },
+    "layer_2": {
+        "sigma_baseline": 0.4358709083795547,
+        "mu_baseline": -0.00945367892831564,
+        "natural_density": 50.46156072616577,
+        "spatial_entropy": 10.396196758270264,
+        "tau_perimeter": 0.0653806362569332
+    },
+    "layer_3": {
+        "sigma_baseline": 0.4523329417705536,
+        "mu_baseline": -0.009645938567817211,
+        "natural_density": 50.203634357452394,
+        "spatial_entropy": 10.425246566772461,
+        "tau_perimeter": 0.06784994126558304
+    },
+    "layer_4": {
+        "sigma_baseline": 0.4650230371952057,
+        "mu_baseline": -0.009566249582916499,
+        "natural_density": 50.240611946582796,
+        "spatial_entropy": 10.430119636535645,
+        "tau_perimeter": 0.06975345557928085
+    },
+    "layer_5": {
+        "sigma_baseline": 0.475291508436203,
+        "mu_baseline": -0.00914806847460568,
+        "natural_density": 50.4631804227829,
+        "spatial_entropy": 10.429525562286377,
+        "tau_perimeter": 0.07129372626543044
+    },
+    "layer_6": {
+        "sigma_baseline": 0.48443818509578707,
+        "mu_baseline": -0.009254794832319021,
+        "natural_density": 50.426353335380554,
+        "spatial_entropy": 10.430280921936035,
+        "tau_perimeter": 0.07266572776436805
+    },
+    "layer_7": {
+        "sigma_baseline": 0.4916100822687149,
+        "mu_baseline": -0.009949079716578126,
+        "natural_density": 50.11725150346756,
+        "spatial_entropy": 10.42162788772583,
+        "tau_perimeter": 0.07374151234030724
+    },
+    "layer_8": {
+        "sigma_baseline": 0.5015363932847977,
+        "mu_baseline": -0.010403499459847807,
+        "natural_density": 50.06428844928742,
+        "spatial_entropy": 10.405845478057861,
+        "tau_perimeter": 0.07523045899271966
+    },
+    "layer_9": {
+        "sigma_baseline": 0.5096746370792389,
+        "mu_baseline": -0.009680519495159388,
+        "natural_density": 50.359947085380554,
+        "spatial_entropy": 10.400664615631104,
+        "tau_perimeter": 0.07645119556188583
+    },
+    "layer_10": {
+        "sigma_baseline": 0.530378096818924,
+        "mu_baseline": -0.010637235088273883,
+        "natural_density": 50.14951809644699,
+        "spatial_entropy": 10.36349921798706,
+        "tau_perimeter": 0.07955671452283859
+    },
+    "layer_11": {
+        "sigma_baseline": 0.5456125982999802,
+        "mu_baseline": -0.011588155280798674,
+        "natural_density": 49.80574115514755,
+        "spatial_entropy": 10.369388965606689,
+        "tau_perimeter": 0.08184188974499702
+    },
+    "layer_12": {
+        "sigma_baseline": 0.5748513176441192,
+        "mu_baseline": -0.011597317969426512,
+        "natural_density": 49.96590639352799,
+        "spatial_entropy": 10.35849415588379,
+        "tau_perimeter": 0.08622769764661788
+    },
+    "layer_13": {
+        "sigma_baseline": 0.6083153392076492,
+        "mu_baseline": -0.013814267912879586,
+        "natural_density": 49.63956952095032,
+        "spatial_entropy": 10.377159595489502,
+        "tau_perimeter": 0.09124730088114738
+    },
+    "layer_14": {
+        "sigma_baseline": 0.6485624475479126,
+        "mu_baseline": -0.013633237989619374,
+        "natural_density": 49.73753159046173,
+        "spatial_entropy": 10.397190048217773,
+        "tau_perimeter": 0.09728436713218688
+    },
+    "layer_15": {
+        "sigma_baseline": 0.7091785109043122,
+        "mu_baseline": -0.014092307290062308,
+        "natural_density": 49.69756425619126,
+        "spatial_entropy": 10.421506137847901,
+        "tau_perimeter": 0.10637677663564682
+    },
+    "lm_head": {
+        "sigma_baseline": 2.2161937351226806,
+        "mu_baseline": 0.6288244611546397,
+        "natural_density": 57.27016959190369,
+        "spatial_entropy": 16.574843452453614,
+        "tau_perimeter": 0.3324290602684021
+    }
+}
